@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  the_elements = ['fire']
+  the_elements = ["fire", "water", "earth", "air"]
 end
 
 def add_element_to_end_of_array(array, element)
